@@ -28,7 +28,6 @@ function validateLoginForm() {
         window.open('indexxx.html');
         return true;
     }
-    window.close();
 
 }
 function validateSignupForm() {
@@ -49,5 +48,4 @@ function validateSignupForm() {
         window.open('indexxx.html');
         return true;
     }
-    window.close();
 }
